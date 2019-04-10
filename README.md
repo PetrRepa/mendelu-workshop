@@ -60,7 +60,7 @@ time and prevents manual errors.
   * Select Dockerfile path (`/Dockerfile`)
   * Select Context (`/`)
 * Test the setup by pushing a new change to your fork
-
+  * New line added
 Bonus: Use `podman run -it <url> /bin/bash` to verify
 
 ## Part 2 - Deploy working application
